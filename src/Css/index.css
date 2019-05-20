@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.heading{
+  widows: 100%;
+  background-color: #888;
+  height: 50px;
+}
+.heading p{
+  margin: 0px;
+  padding-top: 15px;
+  color: #fff;
+  text-align: center;
+}
